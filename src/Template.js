@@ -18,7 +18,7 @@ const generateHTML = function (teamString) {
 </div>
 </div>
 <div class="container-body container-fluid">
-   <div class="row">
+   <div class="d-flex justify-content-center">
         ${teamString} 
     </div>
 </div>
