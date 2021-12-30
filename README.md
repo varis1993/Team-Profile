@@ -23,4 +23,4 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated`
 
 ## Walkthrough Video
-<img src='./TeamProfile.webm'>
+<href="https://www.youtube.com/watch?v=RQR_jpLS3IY">
